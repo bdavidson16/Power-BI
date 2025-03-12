@@ -1,4 +1,4 @@
-# Power-BI Dashboards
+# Power BI Dashboards
 Here I document a summary of my Power BI projects with a description of each project and what skills I showcase within the project. Within each project folder is a PBIX/PBIT download in addition to the PDF that is viewable on GitHub.
 
 
