@@ -1,5 +1,5 @@
 # Power-BI Dashboards
-Here I document a summary of my Power BI projects with a description of each project and what skills I showcase within the project, as well as a link to the dashboard for interaction.
+Here I document a summary of my Power BI projects with a description of each project and what skills I showcase within the project, as well as a PBIX/PBIT download.
 
 
 | Project | Project Description | Skills | Visualization Link |
